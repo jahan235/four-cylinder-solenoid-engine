@@ -1,6 +1,5 @@
-## Engine Running Demo 🎥
+## 🎥 Engine Running Demo
 
-<video controls width="600">
-    <source src="media/RunningEngine.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+[![Engine Running](https://img.youtube.com/vi/PT7sJxLoEYQ/0.jpg)](https://www.youtube.com/watch?v=PT7sJxLoEYQ)
+
+➡️ Click the thumbnail to watch the engine in action!
